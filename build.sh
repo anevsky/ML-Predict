@@ -1,0 +1,1 @@
+docker build -t my_ml_predcit_image .

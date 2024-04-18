@@ -1,0 +1,1 @@
+docker run -d --name my_ml_container -p 8000:8000 my_ml_predcit_image
