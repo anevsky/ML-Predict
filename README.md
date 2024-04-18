@@ -3,8 +3,6 @@
 ![alt architecture-diagram](architecture-diagram.png "Architecture Diagram")
 
 ## Overview
-ML-Predict is a simple Machine Learning client-server app for recommendation / classification system (Python / FastAPI / Docker)
-
 This ML predict project centers around deploying and providing API for machine learning models. 
 
 There are three parts:
