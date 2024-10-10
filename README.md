@@ -1,4 +1,4 @@
-# Machine Learning client-server simple app for recommendation / classification system using Python / FastAPI / Docker
+# Machine Learning app for recommendation / classification using Python / FastAPI / Docker (client-server)
 
 ![alt architecture-diagram](architecture-diagram.png "Architecture Diagram")
 
